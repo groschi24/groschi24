@@ -1,16 +1,15 @@
-### Hi there 👋
+## 👋 Hey everyone, I'm @groschi24 👋
 
-<!--
-**groschi24/groschi24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack developer from Germany and Founder of the [WireCore GmbH](https://github.com/WireCore).
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **Spent every week:**
+<!--START_SECTION:waka-->
+
+```text
+TypeScript/JavaScript   30 hrs    ██████████████████████▓░░   69.76 %
+React                   12 hrs    █▒░░░░░░░░░░░░░░░░░░░░░░░   27.90 %
+Other                   1 hrs     ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+```
+
+<!--END_SECTION:waka-->
